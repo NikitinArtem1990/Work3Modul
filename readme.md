@@ -22,6 +22,7 @@ LICENCE: [MIT](/licence.md)
    *  [Понятие ветвления](./branch.md)
    * [Основные типы ветвлений](./tipeofbranch.md)
 
+4. ### ***Понятие*** [коммита](./commits.md)
 ---
 
 Git Logo by Jason Long https://git-scm.com/downloads/logos, licence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
