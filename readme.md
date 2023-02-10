@@ -16,7 +16,7 @@ LICENCE: [MIT](/licence.md)
    * [git commit](./commit.md)
    * [git clone](./clone.md)
 
-2. ### ***Работа с файлом*** [`.gitignore`]()
+2. ### ***Работа с файлом*** [`.gitignore`](./ignore.md)
 
 3. ### ***Ветвления в GIT и их основные типы***
    *  [Понятие ветвления]()
